@@ -41,7 +41,7 @@ If you want to generate the same cheat sheet in another programming language, si
 
 You can find the exact prompt used in:
 
-**./cheat_sheet_prompt.md**
+[cheat_sheet_prompt.md](./cheat_sheet_prompt.md)
 
 ---
 
